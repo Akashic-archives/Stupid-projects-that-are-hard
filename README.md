@@ -1,2 +1,1 @@
-I learn sometimes some things that I want to do, but I encounter an enconvinient.
-So I try to find complex solutions to simple problems.
+I learned that some things sometimes are easy when we keep it simple. As I always like to ask questions that are really hard like what will happen if. So I try to find complex solutions to simple problems.
