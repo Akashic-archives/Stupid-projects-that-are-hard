@@ -1,0 +1,1 @@
+This project is about how i can do 5**5**5**5**5 easly and with a limited time which is my life. I decided to begin with some small and easy programs and climb my way up to very hard programs that will calculate this equation in a few seconds.
