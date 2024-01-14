@@ -1,3 +1,24 @@
+# methode 3
+# exponent by squaring
+
+x = 5
+
+print(x)
+
+x = 5**5
+
+print(x)
+
+x = 5**x
+
+print(x)
+
+x = 5**x
+
+print(x)
+
+
+"""
 x = 5
 
 expo = 3125
@@ -22,6 +43,9 @@ def chaineExpo(x, expo, multiAPart):
 while expo > 1:
     chaineExpo(x, expo, multiAPart)
     print(x, "\n E = ", expo, "\n M = ", multiAPart, "\n x = ")
+
+"""
+
 
 #x = x ** expo
 #expo = x
